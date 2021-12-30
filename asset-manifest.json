@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/minkim812/recipe-app.git/static/css/main.b2704324.chunk.css",
-    "main.js": "/minkim812/recipe-app.git/static/js/main.a6fa54cc.chunk.js",
-    "main.js.map": "/minkim812/recipe-app.git/static/js/main.a6fa54cc.chunk.js.map",
-    "runtime-main.js": "/minkim812/recipe-app.git/static/js/runtime-main.2ae41f6d.js",
-    "runtime-main.js.map": "/minkim812/recipe-app.git/static/js/runtime-main.2ae41f6d.js.map",
-    "static/js/2.6d741cec.chunk.js": "/minkim812/recipe-app.git/static/js/2.6d741cec.chunk.js",
-    "static/js/2.6d741cec.chunk.js.map": "/minkim812/recipe-app.git/static/js/2.6d741cec.chunk.js.map",
-    "index.html": "/minkim812/recipe-app.git/index.html",
-    "precache-manifest.56b396738514abc13bcfaaf7e36e7435.js": "/minkim812/recipe-app.git/precache-manifest.56b396738514abc13bcfaaf7e36e7435.js",
-    "service-worker.js": "/minkim812/recipe-app.git/service-worker.js",
-    "static/css/main.b2704324.chunk.css.map": "/minkim812/recipe-app.git/static/css/main.b2704324.chunk.css.map",
-    "static/js/2.6d741cec.chunk.js.LICENSE.txt": "/minkim812/recipe-app.git/static/js/2.6d741cec.chunk.js.LICENSE.txt"
+    "main.css": "/minkim812/recipe-app/static/css/main.b2704324.chunk.css",
+    "main.js": "/minkim812/recipe-app/static/js/main.a6fa54cc.chunk.js",
+    "main.js.map": "/minkim812/recipe-app/static/js/main.a6fa54cc.chunk.js.map",
+    "runtime-main.js": "/minkim812/recipe-app/static/js/runtime-main.9238d72b.js",
+    "runtime-main.js.map": "/minkim812/recipe-app/static/js/runtime-main.9238d72b.js.map",
+    "static/js/2.6d741cec.chunk.js": "/minkim812/recipe-app/static/js/2.6d741cec.chunk.js",
+    "static/js/2.6d741cec.chunk.js.map": "/minkim812/recipe-app/static/js/2.6d741cec.chunk.js.map",
+    "index.html": "/minkim812/recipe-app/index.html",
+    "precache-manifest.7325f960816937b6dc9fff9d09f725d1.js": "/minkim812/recipe-app/precache-manifest.7325f960816937b6dc9fff9d09f725d1.js",
+    "service-worker.js": "/minkim812/recipe-app/service-worker.js",
+    "static/css/main.b2704324.chunk.css.map": "/minkim812/recipe-app/static/css/main.b2704324.chunk.css.map",
+    "static/js/2.6d741cec.chunk.js.LICENSE.txt": "/minkim812/recipe-app/static/js/2.6d741cec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ae41f6d.js",
+    "static/js/runtime-main.9238d72b.js",
     "static/js/2.6d741cec.chunk.js",
     "static/css/main.b2704324.chunk.css",
     "static/js/main.a6fa54cc.chunk.js"
