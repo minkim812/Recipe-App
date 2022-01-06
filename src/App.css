@@ -81,7 +81,7 @@ thead th:nth-child(5) {
 
 /* Column size for tbody */
 tbody tr:nth-child(odd) {
-  background-color: #F5E1FD;
+  background-color: #fff0c7;
 }
 
 tbody td:first-child,
