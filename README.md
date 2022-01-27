@@ -12,3 +12,25 @@ This project is designed to test your ability to work with rendering and state m
 -Writing React function components
 -Using hooks like useState()
 -Debugging React code through console output
+
+Requirements to pass
+For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the next lesson.
+-A user can create new recipes.
+-A list of the existing recipes is displayed to the user.
+-A user can delete a recipe.
+-The app uses the useState() hook.
+-Data is displayed in a table (such as the one provided in the starter code).
+
+Project feedback
+Below you'll find some examples of feedback that you might receive on your project. They are presented to you here for learning purposes.
+Remember, it's most important to meet the requirements listed above. But if you do any of the things listed here, you'll receive feedback that you've done exceptional work:
+-Use of <> and </>. You haven't learned fragments yet, so any use shows that you are researching independently.
+-Use of any pure functions.
+-Use of any clear and informative variable or function names.
+
+If you do any of the following, the Thinkful team may suggest improvements you can make. However, doing any of these won't cause you to fail the assessment or require that you produce revisions.
+-Styling that doesn't resemble the provided mockup. Matching the exact design isn't required, but the styling should look similar to the provided mockup.
+-Use of any non-pure functions that could be changed into pure functions.
+-Use of any variable or function names that could be improved (such as highly abbreviated names).
+-Use of components with multiple reasons to re-render.
+-Use of components with multiple responsibilities. Most logic should be broken out into small, single-responsibility pure functions that mutate the state as necessary.
